@@ -1,6 +1,5 @@
 package com.allan.bff_agendador.infrastructure.client;
 
-
 import com.allan.bff_agendador.business.dto.in.TarefasDTORequest;
 import com.allan.bff_agendador.business.dto.out.TarefasDTOResponse;
 import com.allan.bff_agendador.business.enums.StatusNotificacaoEnum;
